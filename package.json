@@ -1,0 +1,22 @@
+{
+  "name": "hakilebara-blog",
+  "version": "0.0.1",
+  "description": "Hakilebara Blog JSON-API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hakilebara",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-google": "^0.7.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "front-matter": "^2.1.2",
+    "jsonapi-serializer": "^3.4.2",
+    "lodash": "^4.17.4"
+  }
+}
